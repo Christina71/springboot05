@@ -2,7 +2,7 @@ package com.example.springboot05;
 
 public class Song {
     private long id;
-    private String name;
+    private String nme;
     private String artist;
     private String album;
     private int rating;
